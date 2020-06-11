@@ -1,2 +1,2 @@
 # flappybird
-[![image](/ss.png)](
+![image](/ss.png)]
